@@ -15,7 +15,7 @@ import '../assets/global/plugins/select2/css/select2-bootstrap.min.css';
 import '../assets/global/plugins/jstree/dist/themes/default/style.min.css';
 // table
 import '../assets/global/plugins/datatables/datatables.min.css';
-import '../assets/global/plugins/datatables/plugins/bootstrap/datatables.bootstrap.css';
+import '../assets/global/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css';
 // check
 import '../assets/global/plugins/icheck/skins/minimal/_all.css';
 // END PAGE LEVEL PLUGINS -->
